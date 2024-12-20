@@ -2,8 +2,8 @@
 
 :root {
     --cor--secundaria: #F6F6F6;
-    --cor--terciaria: #1a55eb;
-    --cor--hover: #272727;
+    --cor--terciaria: #0c47dc;
+    --cor--hover: #031635;
 }
 
 *{
@@ -93,7 +93,7 @@ body{
     font-family: 'Montserrat', sans-serif;
 }
 
-.apresentacao__links__link:hover {
+.apresentacao__links__navegacao:hover {
     background-color: var(--cor--hover);
 }
 
