@@ -130,7 +130,7 @@ body {
     color: var(--cor--hover);
 }
 
-@media (max-width: 900px) {
+@media (max-width: 1200px) {
     .cabecalho__menu {
         flex-direction: column;
         gap: 20px;
@@ -138,14 +138,30 @@ body {
 
     .apresentacao {
         flex-direction: column-reverse;
+        align-items: center;
+        text-align: center;
         gap: 30px;
+        padding: 5%;
     }
 
     .apresentacao__conteudo {
         width: 100%;
     }
 
+    .apresentacao__conteudo__titulo {
+        font-size: 2rem;
+    }
+
+    .apresentacao__conteudo__texto {
+        font-size: 1rem;
+    }
+
     .apresentacao__imagem {
         width: 70%;
+    }
+
+    .apresentacao__links__navegacao {
+        width: 100%;
+        justify-content: center;
     }
 }
