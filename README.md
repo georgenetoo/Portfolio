@@ -1,4 +1,4 @@
-Portfólio de George Neto 🌐
+# Portfólio de George Neto 🌐
 Bem-vindo ao repositório do meu portfólio! Este projeto foi desenvolvido para apresentar minhas habilidades, projetos e experiências como desenvolvedor Front-end. Meu objetivo é ajudar negócios digitais a se destacarem com interfaces modernas e bem construídas.
 
 💡 Sobre o Projeto
